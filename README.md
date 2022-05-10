@@ -25,12 +25,12 @@
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp; -->
-<!-- [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp; -->
+[![twitter](./img/twitter-light.svg)](https://twitter.com/@EklareKumar#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/@EklareKumar#gh-dark-mode-only)
+ &nbsp;&nbsp;
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/akshay-kumar-eklare-5a8611168/#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/akshay-kumar-eklare-5a8611168/#gh-dark-mode-only) 
+&nbsp;&nbsp; 
 <!-- [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
 
@@ -70,10 +70,10 @@
 
 <!-- [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only) -->
 
-<br />
+<!-- <br />
 <br />
 
----
+--- -->
 
 <!-- ### 📺 Latest YouTube Videos
 
